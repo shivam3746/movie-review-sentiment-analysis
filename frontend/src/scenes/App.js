@@ -230,7 +230,7 @@ class App extends Component {
         }
         <div style={{ position: 'absolute', left: '50%', bottom: "20px" }}>
           <div style={{ position: 'relative', left: '-50%' }}>
-            <Text white>Made with ⌨ by Rock Zhou</Text>
+            <Text white>Made with ⌨ by Samrath Prakash</Text>
           </div>
         </div>
       </StyledContainer>
